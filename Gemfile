@@ -45,3 +45,6 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'paperclip'
+
+# authentication
+gem 'sorcery', '~> 0.13.0'
